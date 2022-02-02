@@ -11,10 +11,13 @@ Your program should return the word formed by combining the characters as you it
 
 ### Examples
 
-
+```
 Input: new string[] {"cat", "5"}
+
 Output: cat
 
 
 Input: new string[] {"kaamvjjfl", "4"}
+
 Output: kjajfavlm
+```
